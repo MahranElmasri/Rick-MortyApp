@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctlly 1`] = `
+<select
+  data-testid="dropdown"
+>
+  <option
+    value=""
+  >
+    Filter by status
+  </option>
+</select>
+`;

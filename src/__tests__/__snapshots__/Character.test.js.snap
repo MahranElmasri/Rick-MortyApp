@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctlty 1`] = `
+<div
+  className="char"
+  data-testid="char"
+>
+  <ul
+    className="app"
+  >
+    <li
+      className=" enter card"
+      key="1"
+    >
+      <Link
+        to="/details/1"
+      >
+        <img
+          alt="charImage"
+          className="character-img"
+          src=""
+        />
+        <div
+          className="center text-light "
+        >
+          Rick Sanchex
+        </div>
+        <div
+          className="center text-light"
+        >
+          Human
+        </div>
+        <div
+          className="center text-light"
+        >
+          Male
+        </div>
+        <div
+          className="center text-light"
+        >
+          2017-11-04
+        </div>
+        <div
+          className="badge-success"
+        >
+          Alive
+        </div>
+      </Link>
+    </li>
+  </ul>
+</div>
+`;

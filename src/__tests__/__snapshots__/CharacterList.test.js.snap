@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render corectlly 1`] = `
+<div
+  className="grid-4"
+>
+  <Character
+    char={
+      Object {
+        "created": "2017-11-04",
+        "gender": "Male",
+        "id": 1,
+        "image": "",
+        "name": "Rick Sanchez",
+        "species": "Human",
+        "status": "Alive",
+      }
+    }
+    key="1"
+    loading={false}
+  />
+  <Character
+    char={
+      Object {
+        "created": "2017-11-04",
+        "gender": "Male",
+        "id": 2,
+        "image": "",
+        "name": "Morty Smith",
+        "species": "Human",
+        "status": "Alive",
+      }
+    }
+    key="2"
+    loading={false}
+  />
+</div>
+`;

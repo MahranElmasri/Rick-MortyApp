@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render correctly 1`] = `
+<div
+  className="container "
+>
+  <div
+    className="center table"
+  >
+    <table>
+      <tbody>
+        <tr>
+          <td
+            className="name"
+            colSpan="2"
+          >
+            <h2 />
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="char-img"
+            colSpan="2"
+          >
+            <img
+              alt="loading.."
+              className="character-img"
+            />
+          </td>
+        </tr>
+        <tr>
+          <td
+            className="text-primary status "
+          >
+            Status:
+          </td>
+          <td />
+        </tr>
+        <tr>
+          <td
+            className="text-primary gender"
+          >
+            Gender:
+          </td>
+          <td />
+        </tr>
+        <tr>
+          <td
+            className="text-primary species"
+          >
+            Species:
+          </td>
+          <td />
+        </tr>
+      </tbody>
+    </table>
+    <br />
+    <h2>
+       Episode Table
+    </h2>
+    <table
+      className="episode-table"
+    >
+      <thead>
+        <tr
+          className="eps-header"
+        >
+          <th
+            className="text-primary first-th"
+          >
+            #
+          </th>
+          <th
+            className="text-primary second-th"
+          >
+            Episode name
+          </th>
+          <th
+            className="text-primary third-th"
+          >
+            On Air
+          </th>
+        </tr>
+      </thead>
+      <tbody />
+    </table>
+  </div>
+</div>
+`;
