@@ -1,6 +1,6 @@
 # Rick and Morty episodes in which my character appears
 
-- Live Demo [here](https://hopeful-leavitt-e461d7.netlify.app/)
+- Live Demo [here](https://zealous-wright-b3eabb.netlify.app/)
 
 ## dependancies
 
